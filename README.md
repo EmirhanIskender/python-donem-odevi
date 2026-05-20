@@ -30,6 +30,28 @@ Birden fazla müşteri için:
 - Benzersiz hizmet listesi oluşturma
 işlemleri yapılmıştır.
 
+---
+
+# Kritik Sorular ve Cevapları
+
+## Soru 1
+
+Müşteri bilgilerini neden bir liste yerine sözlük içinde saklamak avantajlıdır?
+
+### Cevap
+
+Müşteri bilgilerini sözlük içinde saklamak daha avantajlıdır çünkü verilere anahtar isimleriyle kolayca ulaşılabilir. Ayrıca müşterinin aldığı hizmetler liste şeklinde düzenli olarak saklanabilir. Bu sayede kod daha okunabilir ve anlaşılır olur.
+
+---
+
+## Soru 2
+
+Yazdığınız for döngüsü müşteri listesini gezerken churn riski taşıyan müşterileri nasıl tespit etti?
+
+### Cevap
+
+For döngüsü müşteri listesindeki tüm müşterileri tek tek kontrol eder. Sadakat ayı düşük olan veya churn bilgisi True olan müşteriler riskli olarak değerlendirilmiştir.
+
 ## Geliştirici
 
 Emirhan İskender
