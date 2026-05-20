@@ -1,3 +1,7 @@
+## Google Colab Linki
+
+[Colab Dosyasını Aç](https://colab.research.google.com/drive/11c-f_b1Y1bIDfLQktusid0WuYbX-ck2p?usp=sharing)
+
 # Python Programlama Dönem Ödevi
 
 Bu projede Python programlama dili kullanılarak müşteri yönetimi ve analiz sistemi geliştirilmiştir.
